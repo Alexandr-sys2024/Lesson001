@@ -32,3 +32,4 @@
 
 [это ссылка на файл HELP.md](HELP.md)
 
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
