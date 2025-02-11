@@ -36,8 +36,8 @@ python test.py
 Этот проект можно расширить, добавив новые примеры кода, интерактивные функции или документацию.
 
 ## 📬 Контакты
-- Email: example@example.com
-- GitHub: [Alexandr-sys2024](https://github.com/Alexandr-sys2024)
+- Email: a.shubin2025@gmail.com 
+- GitHub: https://github.com/Alexandr-sys2024
 
 ## 📝 Лицензия
 Этот проект распространяется под лицензией MIT. Подробности смотрите в файле `LICENSE`.
